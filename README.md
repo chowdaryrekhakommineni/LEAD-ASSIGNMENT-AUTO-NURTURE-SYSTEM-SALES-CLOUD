@@ -105,5 +105,6 @@ The Lead Assignment & Auto-Nurture System automates lead management within Sales
 
 
 ## Contact
-- [Trailblazer Profile](https://www.salesforce.com/trailblazer/krekhachowdary)
-- chowdaryrekhakommineni@gmail.com
+📧 Email: [krekhachowdary@example.com](mailto:krekhachowdary@example.com)  
+🔗 Trailblazer Profile: [Salesforce Trailhead](https://trailhead.salesforce.com/en/me/krekhachowdary)  
+📍 Location: Tirupati, Andhra Pradesh, India  
