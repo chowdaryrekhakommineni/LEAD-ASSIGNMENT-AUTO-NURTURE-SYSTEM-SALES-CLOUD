@@ -1,5 +1,9 @@
 # Lead Assignment & Auto Nurture System — Sales Cloud
 
+[![Salesforce](https://img.shields.io/badge/Salesforce-Developer-blue?logo=salesforce)](https://trailhead.salesforce.com/en/me/krekhachowdary)
+[![Apex](https://img.shields.io/badge/Apex-Programming-blueviolet)](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/)
+[![LWC](https://img.shields.io/badge/LWC-LightningWebComponents-blue)](https://developer.salesforce.com/docs/component-library/overview/components)
+
 **Author:** Kommineni Rekha Chowdary  
 **Company:** Bruhashith (OPC) Pvt. Ltd., Tirupati  
 **Domain:** Customer Relationship Management (CRM) – Sales Cloud  
