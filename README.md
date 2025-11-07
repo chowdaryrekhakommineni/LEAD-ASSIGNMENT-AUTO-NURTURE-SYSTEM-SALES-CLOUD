@@ -100,11 +100,12 @@ The Lead Assignment & Auto-Nurture System automates lead management within Sales
 
 ---
 
- 
+## 📁 Project File
+🔗 [Download Project Files](https://drive.google.com/file/d/1FxpbnK-5Jn0zPAmBTlY3ha-jLORtpaN4/view?usp=drive_link)
 
-
+---
 
 ## Contact
-📧 Email: [krekhachowdary@example.com](mailto:krekhachowdary@example.com)  
+📧 Email: chowdaryrekhakommineni@gmail.com  
 🔗 Trailblazer Profile: [Salesforce Trailhead](https://trailhead.salesforce.com/en/me/krekhachowdary)  
-📍 Location: Tirupati, Andhra Pradesh, India  
+📍 Location: Tirupati, Andhra Pradesh, India
